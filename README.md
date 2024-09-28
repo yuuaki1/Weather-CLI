@@ -10,11 +10,11 @@ Completely usable in your CLI.
 - Copy and paste it in the ``` main.rs``` file with the variable named ```api_key```.
 
 ## Installation
-- **Clone the repository:**
+### **Clone the repository:**
 ``` git clone https://github.com/yuuaki1/Weather-CLI/ ```
-- **Naviagte to project directory:**
+### **Naviagte to project directory:**
 ``` cd Weather-CLI ```
-- **Build the Project:**
+### **Build the Project:**
 ``` cargo build ```
-- **Run the project:**
+### **Run the project:**
 ``` cargo run ```
