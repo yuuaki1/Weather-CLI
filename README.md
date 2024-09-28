@@ -7,7 +7,7 @@ Completely usable in your CLI.
 ``` git clone https://github.com/yuuaki1/Weather-CLI/ ```
 - **Naviagte to project directory:**
 ``` cd Weather-CLI ```
-- **Build the Project: ***
+- **Build the Project:**
 ``` cargo build ```
-- **Run the project: **
+- **Run the project:**
 ``` cargo run ```
